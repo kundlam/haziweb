@@ -1,0 +1,7 @@
+C:\Users\Kundla\source\repos\Hazifeladat\Hazifeladat\bin\Debug\Hazifeladat.exe.config
+C:\Users\Kundla\source\repos\Hazifeladat\Hazifeladat\bin\Debug\Hazifeladat.exe
+C:\Users\Kundla\source\repos\Hazifeladat\Hazifeladat\bin\Debug\Hazifeladat.pdb
+C:\Users\Kundla\source\repos\Hazifeladat\Hazifeladat\obj\Debug\Hazifeladat.csprojAssemblyReference.cache
+C:\Users\Kundla\source\repos\Hazifeladat\Hazifeladat\obj\Debug\Hazifeladat.csproj.CoreCompileInputs.cache
+C:\Users\Kundla\source\repos\Hazifeladat\Hazifeladat\obj\Debug\Hazifeladat.exe
+C:\Users\Kundla\source\repos\Hazifeladat\Hazifeladat\obj\Debug\Hazifeladat.pdb
