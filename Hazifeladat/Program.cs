@@ -54,7 +54,7 @@ namespace Hazifeladat
             }
             double c = a * b;
             using (System.IO.StreamWriter file = new System.IO.StreamWriter(@"C:\Users\Public\TestFolder\WriteLines.txt"))
-            file.WriteLine(c)
+            file.WriteLine(c);
             Console.WriteLine("A két szám szorzata: " + a*b);
 
             Console.ReadKey();
